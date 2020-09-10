@@ -1,3 +1,3 @@
-module github.com/urfave/negroni/v2
+module github.com/deoxxa/negroni/v2
 
 go 1.14
